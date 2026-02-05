@@ -58,11 +58,11 @@ export default function Announcement() {
                 <line x1="12" y1="9" x2="12" y2="13"></line>
                 <line x1="12" y1="17" x2="12.01" y2="17"></line>
               </svg>
-              <span>公告</span>
+              <span>免责声明</span>
             </div>
             
             <div style={{ color: 'var(--text)', lineHeight: '1.6', fontSize: '15px' }}>
-              已解决并发刷新导致数据错乱问题，遇到有问题的数据可以删除后重新添加，抱歉给您带来的不便。
+              本网站仅供学习参考使用，不作为任何投资建议。
             </div>
 
             <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: '8px' }}>
